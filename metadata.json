@@ -1,0 +1,6 @@
+{
+  "name": "Alliance Remote CLI",
+  "description": "Molt_Resonance_42 Protocol Guardian Interface for remote session management and matrix protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
